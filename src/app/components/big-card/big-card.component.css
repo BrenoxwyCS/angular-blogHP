@@ -20,7 +20,7 @@
 }
 
 .big-card__description > p > a {
-    color: gray;
+    color: rgb(49, 49, 49);
 }
 
 .big-card__photo > img {
